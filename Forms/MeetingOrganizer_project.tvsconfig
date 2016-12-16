@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.uUserControl" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uRoomControl" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingControl" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uAbstractDataForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uRecError" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uAbstractForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uRoomDM" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uRoomForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uUserForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uAbstractDataTabForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uAbstractControl" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MeetingOrganizer" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uDMMain" Type="System.String" Value="uDMMain" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMainDM" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMainForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uUserLoginForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uUserDM" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingParticipantsForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingDM" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingAddForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingTimeForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingParticipantForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingRoomForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uAbstractDataModule" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMeetingTimeRoomForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uMsgControl" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="Gendoc.Images" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="Gendoc.OutputFolder" Type="System.String" Value="C:\temp\doc" IsBrowsable="False" />
+  <Option Name="Gendoc.NavigationTree" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="Gendoc.LaunchBrowser" Type="System.Boolean" Value="True" IsBrowsable="False" />
+</TgConfig>
